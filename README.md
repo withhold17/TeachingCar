@@ -2,7 +2,7 @@
 
 **此SDK用于实验教学。**
 
-原作者：git@github.com:AlessioMorale/ld06_lidar.git
+原作者：[链接](https://github.com/AlessioMorale/ld06_lidar.git)
 
 ROS版本：ROS melodic
 
